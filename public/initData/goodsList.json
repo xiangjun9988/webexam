@@ -1,0 +1,124 @@
+{
+	"goodsList" : [
+		{
+			"key": 1,
+			"name": "iPhone 7",
+			"price": 5888,
+			"stock": 543,
+			"cateName": "手机",
+			"isSale": "在售"
+		},
+		{
+			"key": 2,
+			"name": "夏款短袖衬衫",
+			"price": 68,
+			"stock": 233,
+			"cateName": "衣服",
+			"isSale": "在售"
+		},
+		{
+			"key": 3,
+			"name": "iPhone 7",
+			"price": 5888,
+			"stock": 543,
+			"cateName": "手机",
+			"isSale": "在售"
+		},
+		{
+			"key": 4,
+			"name": "夏款短袖衬衫",
+			"price": 68,
+			"stock": 233,
+			"cateName": "衣服",
+			"isSale": "在售"
+		},
+		{
+			"key": 5,
+			"name": "iPhone 7",
+			"price": 5888,
+			"stock": 543,
+			"cateName": "手机",
+			"isSale": "在售"
+		},
+		{
+			"key": 6,
+			"name": "夏款短袖衬衫",
+			"price": 68,
+			"stock": 233,
+			"cateName": "衣服",
+			"isSale": "在售"
+		},
+		{
+			"key": 7,
+			"name": "iPhone 7",
+			"price": 5888,
+			"stock": 543,
+			"cateName": "手机",
+			"isSale": "在售"
+		},
+		{
+			"key": 8,
+			"name": "夏款短袖衬衫",
+			"price": 68,
+			"stock": 233,
+			"cateName": "衣服",
+			"isSale": "在售"
+		},
+		{
+			"key": 9,
+			"name": "iPhone 7",
+			"price": 5888,
+			"stock": 543,
+			"cateName": "手机",
+			"isSale": "在售"
+		},
+		{
+			"key": 10,
+			"name": "夏款短袖衬衫",
+			"price": 68,
+			"stock": 233,
+			"cateName": "衣服",
+			"isSale": "在售"
+		},
+		{
+			"key": 11,
+			"name": "iPhone 7",
+			"price": 5888,
+			"stock": 543,
+			"cateName": "手机",
+			"isSale": "在售"
+		},
+		{
+			"key": 12,
+			"name": "夏款短袖衬衫",
+			"price": 68,
+			"stock": 233,
+			"cateName": "衣服",
+			"isSale": "在售"
+		},
+		{
+			"key": 13,
+			"name": "iPhone 7",
+			"price": 5888,
+			"stock": 543,
+			"cateName": "手机",
+			"isSale": "在售"
+		},
+		{
+			"key": 14,
+			"name": "夏款短袖衬衫",
+			"price": 68,
+			"stock": 233,
+			"cateName": "衣服",
+			"isSale": "在售"
+		},
+		{
+			"key": 15,
+			"name": "三鹿奶粉",
+			"price": 29,
+			"stock": 0,
+			"cateName": "母乳",
+			"isSale": "停售"
+		}
+	]
+}
