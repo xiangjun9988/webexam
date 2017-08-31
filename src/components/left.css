@@ -1,0 +1,7 @@
+.left-menu .ant-switch {
+	background: #333;
+}
+.left-menu .ant-switch-checked {
+	border-color: #fff!important;
+	background: #108ee9!important;
+}
